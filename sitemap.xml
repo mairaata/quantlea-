@@ -2,48 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64906/categories/ai/</loc>
+    <loc>https://mairaata.github.io/quantleap/categories/ai/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/tags/ai-agents/</loc>
+    <loc>https://mairaata.github.io/quantleap/tags/ai-agents/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/scribble/2025/ai-agent-series-1/</loc>
+    <loc>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/categories/</loc>
+    <loc>https://mairaata.github.io/quantleap/categories/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/tags/intelligent-systems/</loc>
+    <loc>https://mairaata.github.io/quantleap/tags/intelligent-systems/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/tags/llms/</loc>
+    <loc>https://mairaata.github.io/quantleap/tags/llms/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/</loc>
+    <loc>https://mairaata.github.io/quantleap/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/tags/</loc>
+    <loc>https://mairaata.github.io/quantleap/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/categories/technology/</loc>
+    <loc>https://mairaata.github.io/quantleap/categories/technology/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64906/spotlight/</loc>
-    <lastmod>2024-12-31T20:43:37+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64906/sandbox/</loc>
-    <lastmod>2024-12-31T20:43:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64906/reads/</loc>
-    <lastmod>2024-12-31T20:42:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64906/scribble/</loc>
-    <lastmod>2024-12-31T20:42:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64906/learnings/</loc>
-    <lastmod>2024-12-31T20:34:50+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64906/series/</loc>
+    <loc>https://mairaata.github.io/quantleap/series/</loc>
   </url>
 </urlset>

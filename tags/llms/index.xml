@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LLMs on QuantLeap</title>
-    <link>http://localhost:64906/tags/llms/</link>
+    <link>https://mairaata.github.io/quantleap/tags/llms/</link>
     <description>Recent content in LLMs on QuantLeap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© QuantLeap 2025</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64906/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mairaata.github.io/quantleap/tags/llms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Agents and LLMs: Redefining the Future of Intelligent Systems</title>
-      <link>http://localhost:64906/scribble/2025/ai-agent-series-1/</link>
+      <link>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:64906/scribble/2025/ai-agent-series-1/</guid>
+      <guid>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</guid>
       <description>Exploring the role of AI agents and Large Language Models (LLMs) in redefining the future of intelligent systems.</description>
       <content:encoded><![CDATA[<p>Imagine a world where AI does more than just answer your questions—it solves your problems, adapts to your needs, and collaborates seamlessly across domains. <strong>AI agents—especially those powered by Large Language Models (LLMs)—are paving the way for such a future.</strong> Unlike static models, these dynamic entities combine understanding, reasoning, and action, enabling them to autonomously interact with their environment and achieve specific goals.</p>
 <p>This blog series explores the <strong>Agentic Framework</strong>, starting with the fundamental concepts and the evolution of AI agents, illustrating their role as a transformative force in artificial intelligence.</p>
@@ -151,15 +151,19 @@
   </p>
 <h2 id="the-future-of-intelligent-agents">The Future of Intelligent Agents</h2>
 <p>LLM agents represent the next evolution in intelligent systems. By combining autonomy, adaptability, and collaboration, they address challenges that traditional tools cannot. Their integration into industries like healthcare, advertising, and legal services highlights their transformative potential, paving the way for a smarter, more efficient future. Whether you&rsquo;re managing data, automating workflows, or enhancing user experiences, AI agents are poised to redefine what&rsquo;s possible.</p>
-<h3 id="citation">Citation</h3>
 <p>If you found this article useful, please cite it as follows:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bibtex" data-lang="bibtex"><span style="display:flex;"><span><span style="color:#a6e22e">@article</span>{myra2025aiagents,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span>   = <span style="color:#e6db74">{Building AI Agents: A Framework for Intelligent Systems}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">author</span>  = <span style="color:#e6db74">{Myra}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">journal</span> = <span style="color:#e6db74">{QuantLeap}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">year</span>    = <span style="color:#e6db74">{2025}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">month</span>   = <span style="color:#e6db74">{Jan}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span>     = <span style="color:#e6db74">{https://quantleap.com/writing/ai-agents-framework}</span>
+<p><strong>For general reference:</strong></p>
+<blockquote>
+<p>Myra. (Jan 2025). <em>Building AI Agents: A Framework for Intelligent Systems</em>. QuantLeap. <a href="https://quantleap.com/writing/ai-agents-framework">https://quantleap.com/writing/ai-agents-framework</a></p>
+</blockquote>
+<p><strong>For LaTeX or BibTeX citation:</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>@article{myra2025aiagents,
+</span></span><span style="display:flex;"><span>  title   = {Building AI Agents: A Framework for Intelligent Systems},
+</span></span><span style="display:flex;"><span>  author  = {Myra},
+</span></span><span style="display:flex;"><span>  journal = {QuantLeap},
+</span></span><span style="display:flex;"><span>  year    = {2025},
+</span></span><span style="display:flex;"><span>  month   = {Jan},
+</span></span><span style="display:flex;"><span>  url     = {https://quantleap.com/writing/ai-agents-framework}
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div>]]></content:encoded>
     </item>
