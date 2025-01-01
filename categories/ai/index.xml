@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on QuantLeap</title>
-    <link>https://mairaata.github.io/quantleap/categories/ai/</link>
+    <link>//localhost:1313/categories/ai/</link>
     <description>Recent content in AI on QuantLeap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© QuantLeap 2025</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mairaata.github.io/quantleap/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Agents and LLMs: Redefining the Future of Intelligent Systems</title>
-      <link>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</link>
+      <link>//localhost:1313/scribble/2025/ai-agent-series-1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</guid>
+      <guid>//localhost:1313/scribble/2025/ai-agent-series-1/</guid>
       <description>Exploring the role of AI agents and Large Language Models (LLMs) in redefining the future of intelligent systems.</description>
       <content:encoded><![CDATA[<p>Imagine a world where AI does more than just answer your questions—it solves your problems, adapts to your needs, and collaborates seamlessly across domains. <strong>AI agents—especially those powered by Large Language Models (LLMs)—are paving the way for such a future.</strong> Unlike static models, these dynamic entities combine understanding, reasoning, and action, enabling them to autonomously interact with their environment and achieve specific goals.</p>
 <p>This blog series explores the <strong>Agentic Framework</strong>, starting with the fundamental concepts and the evolution of AI agents, illustrating their role as a transformative force in artificial intelligence.</p>

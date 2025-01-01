@@ -2,33 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mairaata.github.io/quantleap/categories/ai/</loc>
+    <loc>//localhost:1313/categories/ai/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/tags/ai-agents/</loc>
+    <loc>//localhost:1313/tags/ai-agents/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/scribble/2025/ai-agent-series-1/</loc>
+    <loc>//localhost:1313/scribble/2025/ai-agent-series-1/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/tags/intelligent-systems/</loc>
+    <loc>//localhost:1313/tags/intelligent-systems/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/tags/llms/</loc>
+    <loc>//localhost:1313/tags/llms/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/categories/technology/</loc>
+    <loc>//localhost:1313/categories/technology/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mairaata.github.io/quantleap/series/</loc>
+    <loc>//localhost:1313/spotlight/</loc>
+    <lastmod>2024-12-31T20:43:37+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/sandbox/</loc>
+    <lastmod>2024-12-31T20:43:21+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/reads/</loc>
+    <lastmod>2024-12-31T20:42:57+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/scribble/</loc>
+    <lastmod>2024-12-31T20:42:45+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/learnings/</loc>
+    <lastmod>2024-12-31T20:34:50+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
   </url>
 </urlset>
